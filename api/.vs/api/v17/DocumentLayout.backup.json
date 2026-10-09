@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|d:\\documents\\haikal\\sources\\repositories\\finshark\\api\\api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59173BFC-6058-47DC-BE74-73868CE320EE}|api\\api.csproj|solutionrelative:api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +55,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Program.cs",
-              "RelativeDocumentMoniker": "api\\Program.cs",
-              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Program.cs",
-              "RelativeToolTip": "api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Title": "StockMappers.cs",
+              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Mappers\\StockMappers.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\StockMappers.cs",
+              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Mappers\\StockMappers.cs",
+              "RelativeToolTip": "api\\Mappers\\StockMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T00:31:07.106Z",
+              "WhenOpened": "2026-10-09T02:01:18.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Dtos\\Stock\\StockDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\StockDto.cs",
+              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Dtos\\Stock\\StockDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Stock\\StockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:59:08.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Controllers\\StockController.cs",
+              "RelativeToolTip": "api\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAA8AAADgyszMzMwmwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:35:18.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "api\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T00:24:54.585Z"
+              "WhenOpened": "2026-10-09T01:34:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T01:02:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Comment.cs",
+              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Models\\Comment.cs",
+              "RelativeToolTip": "api\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:40:12.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Stock.cs",
+              "ToolTip": "D:\\Documents\\Haikal\\Sources\\Repositories\\FinShark\\api\\api\\Models\\Stock.cs",
+              "RelativeToolTip": "api\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:39:59.256Z",
+              "EditorCaption": ""
             }
           ]
         }
