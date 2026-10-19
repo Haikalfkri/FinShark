@@ -9,6 +9,7 @@ namespace api.Interfaces
         Task<Stock?> GetByIdAsync(int id); // FirstOrDefault can be null, so we return Stock? to indicate it can be null
         Task<Stock> CreateAsync(Stock stockModel);
         Task<Stock?> UpdateAsync(int id, UpdateStockRequestDto stockDto);
-        Task<Stock?> DeleteAsync(int id); 
+        Task<Stock?> DeleteAsync(int id);
+        Task<bool> StockExist(int id); // Check if a stock exists by its ID
     }
 }
