@@ -1,12 +1,11 @@
 ﻿using api.Dtos.Stock;
-using api.Helpers;
 using api.Models;
 
 namespace api.Interfaces
 {
     public interface IStockRepository
     {
-        Task<List<Stock>> GetAllAsync(QueryObject query);
+        Task<List<Stock>> GetAllAsync();
         Task<Stock?> GetByIdAsync(int id); // FirstOrDefault can be null, so we return Stock? to indicate it can be null
         Task<Stock> CreateAsync(Stock stockModel);
         Task<Stock?> UpdateAsync(int id, UpdateStockRequestDto stockDto);
